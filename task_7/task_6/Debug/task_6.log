@@ -1,0 +1,4 @@
+﻿  task_6.cpp
+C:\Users\auror\source\repos\task_6\task_6\task_6.cpp(61,12): warning C4101: x: неиспользованная локальная переменная
+C:\Users\auror\source\repos\task_6\task_6\task_6.cpp(61,9): warning C4101: l: неиспользованная локальная переменная
+  task_6.vcxproj -> C:\Users\auror\source\repos\task_6\Debug\task_6.exe
